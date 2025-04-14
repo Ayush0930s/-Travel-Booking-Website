@@ -4,3 +4,7 @@ A responsive travel booking website built with HTML, CSS, and Bootstrap. This pr
 🧳 Travel package cards with hover effects  
 📱 Fully responsive layout for all screen sizes 
 🎨 Clean and user-friendly interface
+🚀 Technologies Used:
+HTML5
+CSS3
+Bootstrap 5
